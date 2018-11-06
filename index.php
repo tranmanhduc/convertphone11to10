@@ -47,5 +47,5 @@ public static function getStandardMobileNumber($mobile, $includingCountryCode = 
             }
         }
 
-        return $mobile;
+        return $mobile;s
     }
